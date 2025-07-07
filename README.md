@@ -1,7 +1,12 @@
 # LeetCode-
 To keep track of leetcode notes, videos and progress 
 
-# Two pointers 
- ### Sliding Window 
+# Arrays and Strings
 
- ### Prefix Sum
+### TWO POINTERS
+Pseudo code: 
+
+
+### SLIDING WINDOW 
+
+### PREFIX SUM
